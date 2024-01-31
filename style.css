@@ -1,0 +1,30 @@
+body {
+    background-color: powderblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+}
+
+h1 {
+    color: purple;
+}
+
+ul,ol {
+    background-color: plum;
+    width: 400px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 500px;
+}
+
+td,th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+    background-color: rgb(127, 186, 238);
+}
+
+.emphasize {
+    font-weight: bold;
+}
